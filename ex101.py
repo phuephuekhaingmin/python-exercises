@@ -12,4 +12,8 @@ I'll do a list:
 print(tabby_cat)
 print(persian_cat)
 print(backslash_cat)
+<<<<<<< HEAD
 print(fat_cat)
+=======
+print(fat_cat))
+>>>>>>> d239cc3ce0abc9715a0bb3fc547f44511b35f960
